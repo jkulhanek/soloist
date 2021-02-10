@@ -3,7 +3,7 @@
 Unofficial SOLOIST [1] implementation in PyTorch using HuggingFace's transformers.
 
 ## Notes
-This implementation is based on AuGPT's official implementation published in [](https://github.com/jkulhanek/soloist.git). The checkpoints used in this repository were trained using AuGPT, which is very similar to SOLOIST, but outperforms it slightly.
+This implementation is based on AuGPT's official implementation published in [github.com/ufal/augpt.git](https://github.com/ufal/augpt.git). The checkpoints used in this repository were trained using AuGPT, which is very similar to SOLOIST, but outperforms it slightly.
 
 ## Getting started
 Start with creating a python 3.7 venv and installing requirements.txt. Python 3.8 is **not supported** by ConvLab-2. Also,
